@@ -66,3 +66,10 @@ layout: default
 
 　　最后，你有没有遇到过手机卡突然没服务，然后瞬间心慌的经历？在博茨瓦纳，保持网络畅通，不仅是便利，更是一份安全感。祝你在奥卡万戈的夕阳下，发出一条让所有朋友都羡慕的朋友圈。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Botswana eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/botswana-data-plans)
